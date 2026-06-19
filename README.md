@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Go to Memgenie.net to learn more
 <!--
 **memgenie/memgenie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
